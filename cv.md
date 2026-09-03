@@ -82,9 +82,9 @@ Variable Exponent Lebesgue-Sobolev Spaces; PDEs; Calculus of Variations; Topolog
     <li>On the existence, uniqueness and stability of solutions of SDEs with state-dependent variable exponent. <em>Journal of
 Stochastic Analysis</em>. Vol. 7: No. 3, Article 3. <strong>(2026)</strong>.
       <a href="https://repository.lsu.edu/josa/vol7/iss3/3/" target="_blank" rel="noopener">Website</a>.</li>
-    <li>Existence results for a p(x)-Kirchhoff-type equation with double singularity (with B. Cekic, Z. Yucedag). <em>The Journal of Analysis</em>. <strong>(2026)</strong>.
+    <li>Existence results for a p(x)-Kirchhoff-type equation with double singularity (with B. Cekic, Z. Yucedag). <em>The Journal of Analysis</em>. Vol. 34, 1475–1502. <strong>(2026)</strong>.
       <a href="https://link.springer.com/article/10.1007/s41478-026-01115-8" target="_blank" rel="noopener">Website</a>.</li>
-    <li>Solutions of a double phase singular Kirchhoff type equation with nonstandard growth (with A. Razani), <em>FILOMAT</em>. 40 (9) <strong>(2026)</strong>, 3239–3254.
+    <li>Solutions of a double phase singular Kirchhoff type equation with nonstandard growth (with A. Razani), <em>FILOMAT</em>. 40 (9), 3239–3254.<strong>(2026)</strong>
     <a href="https://journal3.pmf.ni.ac.rs/filomat/filomat/article/view/561" target="_blank" rel="noopener">Website</a>
     </li>
     <li>Nehari manifold approach for a singular multi-phase variable exponent problem, <em>Quaestiones Mathematicae</em>, 1–21. <strong>(2026)</strong>.
@@ -655,4 +655,4 @@ Stochastic Analysis</em>. Vol. 7: No. 3, Article 3. <strong>(2026)</strong>.
 - Competent at: Python, MATLAB, SPSS.
 ---
 
-_Auto-generated from **avcixm/academicprofile** — build `ee33ec0` on 2026-09-03 17:14 UTC_
+_Auto-generated from **avcixm/academicprofile** — build `22bbeff` on 2026-09-03 17:17 UTC_
