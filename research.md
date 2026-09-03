@@ -62,8 +62,8 @@ Variable Exponent Lebesgue-Sobolev Spaces; PDEs; Calculus of Variations; Topolog
   <summary><small>Published/Accepted</small></summary>
   <ol>
     <li>On the existence, uniqueness and stability of solutions of SDEs with state-dependent variable exponent. <em>Journal of
-Stochastic Analysis</em>. To appear <strong>(2026)</strong>.
-      <a href="https://repository.lsu.edu/josa/" target="_blank" rel="noopener">Website</a>.</li>
+Stochastic Analysis</em>. Vol. 7: No. 3, Article 3. <strong>(2026)</strong>.
+      <a href="https://repository.lsu.edu/josa/vol7/iss3/3/" target="_blank" rel="noopener">Website</a>.</li>
     <li>Existence results for a p(x)-Kirchhoff-type equation with double singularity (with B. Cekic, Z. Yucedag). <em>The Journal of Analysis</em>. <strong>(2026)</strong>.
       <a href="https://link.springer.com/article/10.1007/s41478-026-01115-8" target="_blank" rel="noopener">Website</a>.</li>
     <li>Solutions of a double phase singular Kirchhoff type equation with nonstandard growth (with A. Razani), <em>FILOMAT</em>. 40 (9) <strong>(2026)</strong>, 3239–3254.
